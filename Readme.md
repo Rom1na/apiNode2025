@@ -39,21 +39,21 @@ Esta es una API desarrollada con **Express** para gestionar productos y autentic
 
 ## Estructura de documentos en firebase
  
--doc : EAN,descripcion,precio
--dentro de la coleccion Productos.
+- doc : EAN,descripcion,precio
+- dentro de la coleccion Productos.
 
 ## Estructura de la respuesta json
 
--mensaje 
--payload
+- mensaje 
+- payload
 
 ## Keys de las variables de entorno usadas en el proyecto: 
--APIKEY
--AUTHDOMAIN
--PROJECTID
--STORAGEBUCKET
--MESSAGINGSENDERID
--APPID
--JWT_SECRET_KEY
--MAIL
--PASS
+- APIKEY
+- AUTHDOMAIN
+- PROJECTID
+- STORAGEBUCKET
+- MESSAGINGSENDERID
+- APPID
+- JWT_SECRET_KEY
+- MAIL
+- PASS
